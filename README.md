@@ -1,4 +1,3 @@
-[![Build Status](https://travis-ci.org/AlexandrAnash/ht6.svg?branch=master)](https://travis-ci.org/AlexandrAnash/ht6) [![bitHound Overall Score](https://www.bithound.io/github/AlexandrAnash/ht6/badges/score.svg)](https://www.bithound.io/github/AlexandrAnash/ht6)
 
 №Настройка инфраструктуры.
 В данной работе было разработано не большое Node.js приложение, которое умеет писать логи и отдавать на клиента данные с заданием.
