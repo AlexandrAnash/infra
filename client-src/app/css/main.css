@@ -1,0 +1,42 @@
+.btn {
+    -webkit-box-shadow: 0 3px 20px -5px #aaa;
+    -ms-box-shadow: 0 3px 20px -5px #aaa;
+    box-shadow: 0 3px 20px -5px #aaa;
+    color: #171307;
+    padding: 10px;
+    border: none;
+    
+}
+.btn:hover {
+    cursor: pointer;
+}
+.btn-error {
+    color: white;
+    background: #f33;
+}
+.btn__color_red {
+    background: #f55;
+}
+.btn__color_green {
+    background: green;
+}
+.btn__color_blue {
+    background: blue;
+}
+.btn__color_done {
+    background: gray;
+}
+.items { 
+    margin-top: 10px;
+}
+.task__item {
+    padding: 10px 15px;
+}
+.btn__color {
+    margin: 10px;
+    width: 40px;
+    height: 40px;
+}
+.content{
+    text-align: center;
+}
